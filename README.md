@@ -1,1 +1,2 @@
 # RSA1024_ECB_PKCS1Padding
+RSA1024_ECB_PKCS1Padding加密方式，根据后台返回的公钥，配合自己输入的密码进行加密。
